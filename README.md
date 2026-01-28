@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Welcome Banner" width="600" />
 </div>
 
-<h1 align="center">Hey there! I'm <span style="color:#FF6B6B;">Anthony</span> 👋</h1>
+<h1 align="center">Hey there! I'm <span style="color:#FF6B6B;">Anthony Pinto</span> 👋</h1>
 <h3 align="center">Developer | Problem Solver | Tech Enthusiast</h3>
 
 <div align="center">
@@ -61,10 +61,25 @@ I value **clean code**, **continuous growth**, and **meaningful innovation** tha
 
 ### 🌟 Featured Projects
 
-- 🎨 **Portfolio Website** – Responsive personal portfolio showcasing projects and skills  
-- 🛒 **E-Commerce Platform** – Full-stack shopping application with payment integration  
-- 📱 **Task Manager App** – Productivity tool with real-time collaboration features  
-- 🎮 **Game Engine** – Custom 2D game engine built from scratch  
+- 🏫 **Secure Campus**  
+  Visitor & security management system built for **Kristu Jayanti University**  
+  *Features:* visitor check-in, security logs, role-based access  
+  *Status:* Private / Institutional Project
+
+- 🚗 **Car Showroom Management System**  
+  Desktop application built using **VB.NET + SQL Server**  
+  *Features:* inventory management, billing, customer records  
+  *Status:* Academic Project  
+
+- 🤝 **Prayas–Sankalp**  
+  Second-hand marketplace and food donation platform  
+  *Features:* donor–receiver matching, listings, notifications  
+  *Status:* Private Project  
+
+- 📱 **Herald**  
+  Mobile app for **college event management**  
+  *Features:* event listings, registrations, notifications  
+  *Status:* Private Project  
 
 ---
 
@@ -86,10 +101,10 @@ I value **clean code**, **continuous growth**, and **meaningful innovation** tha
   <a href="https://github.com/AnthonyPint0" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-AnthonyPint0-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/anthonypint0" target="_blank">
+  <a href="https://www.linkedin.com/in/anthony-pinto-robinson/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:anthony@example.com">
+  <a href="mailto:anthonypinto081@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </div>
